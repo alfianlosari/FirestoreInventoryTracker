@@ -20,7 +20,7 @@ It has the following features:
 - Enable Cloud Firestore
 - Install Firebase Local Emulator Suite to enable localhost testing with simulator
 - Provide your bundle id based on the iOS app that you added in Firebase project
-- Copy and Paster your Google Info Plist to the project
+- Copy and Paste your Google Info Plist to the project
 
 ## Author
 
